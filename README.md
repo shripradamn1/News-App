@@ -1,3 +1,8 @@
+![image](https://github.com/shripradamn1/News-App/assets/133126805/b5f35846-8afc-4977-8fbb-0e91a0114a5f)![image](https://github.com/shripradamn1/News-App/assets/133126805/075dc62e-d2f7-42cb-aa1e-cba6577e5a42)
+![image](https://github.com/shripradamn1/News-App/assets/133126805/9876fb03-8e1f-460d-84c9-da6bb530c540)
+![Uploading Screenshot (631).png…]()
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
